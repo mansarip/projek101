@@ -32,6 +32,7 @@ h3 {
   color: #0d358b;
   margin: 0;
   font-weight: normal;
+  line-height: 1.4em;
 }
 
 .record {
@@ -48,6 +49,7 @@ h3 {
 
 span.kementerian {
   color: #b82a11;
+  margin: 5px 0;
 }
 
 .credit {
