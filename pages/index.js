@@ -56,7 +56,7 @@ export default function Home() {
           property="og:description"
           content="Senarai kementerian yang mengeluarkan tender kerajaan secara rundingan terus bernilai RM6.61 bilion semasa pemerintahan Pakatan Harapan (PH)."
         />
-        <meta property="og:image" content="https://projek101.com/thumb.png" />
+        <meta property="og:image" content="https://projek101.com/mof.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://projek101.com/" />
@@ -70,7 +70,7 @@ export default function Home() {
         />
         <meta
           property="twitter:image"
-          content="https://projek101.com/thumb.png"
+          content="https://projek101.com/mof.jpg"
         ></meta>
       </Head>
 
